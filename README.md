@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdreaj38" alt="mdreaj38" /> </p>
 
 <a href="">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdreaj38&show_icons=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdreaj38&show_icons=true&theme=dracula&layout=compact">
 
 </a>
 <a href="">
