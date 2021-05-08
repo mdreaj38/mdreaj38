@@ -1,7 +1,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdreaj38" alt="mdreaj38" /> </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mdreaj38&show_icons=true&theme=dracula">
+<a href="">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdreaj38&show_icons=true&theme=dracula">
 
+</a>
+<a href="">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdreaj38&layout=compact&theme=dracula" />
+</a>
 <div align="center">
   
   **📫 Reach me at:**<br>
