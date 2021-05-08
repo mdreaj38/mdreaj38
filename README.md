@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdreaj38" alt="mdreaj38" /> </p>
+<p align="center" >
 
 <a href="">
   <img src="https://github-readme-stats.vercel.app/api?username=mdreaj38&show_icons=true&theme=dracula&layout=compact">
@@ -7,6 +7,7 @@
 <a href="">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdreaj38&layout=compact&theme=dracula" />
 </a>
+</p>
 <div align="center">
   
   **📫 Reach me at:**<br>
