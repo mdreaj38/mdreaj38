@@ -1,4 +1,6 @@
 <p align="center" >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdreaj38&layout=compact&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mdreaj38&show_icons=true&theme=dracula&layout=compact">
 
 <a href="">
   <img src="https://github-readme-stats.vercel.app/api?username=mdreaj38&show_icons=true&theme=dracula&layout=compact">
