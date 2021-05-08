@@ -1,15 +1,3 @@
-<p align="center" >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdreaj38&layout=compact&theme=dracula" />
-    <img src="https://github-readme-stats.vercel.app/api?username=mdreaj38&show_icons=true&theme=dracula&layout=compact">
-
-<a href="">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdreaj38&show_icons=true&theme=dracula&layout=compact">
-
-</a>
-<a href="">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdreaj38&layout=compact&theme=dracula" />
-</a>
-</p>
 <div align="center">
   
   **📫 Reach me at:**<br>
@@ -19,3 +7,8 @@
   
 
 </div>
+<p align="center" >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdreaj38&layout=compact&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mdreaj38&show_icons=true&theme=dracula&layout=compact">
+</p>
+
