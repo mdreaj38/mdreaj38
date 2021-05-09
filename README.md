@@ -7,8 +7,9 @@
   
 
 </div>
-<p align="center" >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdreaj38&layout=compact&theme=dracula" />
-    <img src="https://github-readme-stats.vercel.app/api?username=mdreaj38&show_icons=true&theme=dracula&layout=compact">
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=mdreaj38&show_icons=true&theme=dracula&layout=compact" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdreaj38&layout=compact&theme=gotham" width="48%" />
+
 </p>
 
